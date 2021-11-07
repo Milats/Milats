@@ -1,0 +1,50 @@
+h2{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    text-shadow: 20px;
+}
+p{
+    text-align: center;
+    border-color: yellow;
+    background-origin:content-box;
+}
+#contenedor{
+    width: 70%;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#canciones{
+    width: 70%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0 auto;
+}
+#post{
+    padding: 10px;
+}
+#cabecera{
+    padding: 0.5em ;
+    color: black;
+    background-color: cornflowerblue;
+    margin: 0;
+    font-weight: bold;
+}
+#logo{
+    width:50px;
+    margin: 0;
+    padding: 0.5em;
+}
+body{
+    background-color: gray;
+}
+#footer{
+    color:grey;
+    background-color: whitesmoke;
+}
+#wallpaper{
+    width: 75%;
+}
